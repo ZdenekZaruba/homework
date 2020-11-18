@@ -14,4 +14,4 @@ Tvořím ve visual studio 2019 nebo visual studio code. Každý projekt bude mí
 
 - 18.11.2020 
 
-Vytvořeny složky C - examples, Hello world (html), graf (PHP, HTML, CSS). 
+Vytvořeny složky C - examples, Hello world, graf. 
