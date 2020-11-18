@@ -6,7 +6,7 @@ Můj školní repozitář k odevzdávání vypracovaných prací.
 
 ## Software
 
-Tvořím ve visual studio 2019 nebo visual studio code a pro každý programovací jazyk bude vytvořena složka i s daným projektem.
+Tvořím ve visual studio 2019 nebo visual studio code. Kazdý projekt bude mít svou složku v závorce bude uvedený programovací jazyk.
 
 <br />
 
@@ -14,4 +14,4 @@ Tvořím ve visual studio 2019 nebo visual studio code a pro každý programovac
 
 - 18.11.2020 
 
-Vytvořeny složky C, HTML, PHP.
+Vytvořeny složky C - examples, Hello world (html), graf(PHP, HTML, CSS). 
