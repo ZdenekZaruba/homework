@@ -6,7 +6,7 @@ Můj školní repozitář k odevzdávání vypracovaných prací.
 
 ## Software
 
-Tvořím ve visual studio 2019 nebo visual studio code. Každý projekt bude mít svou složku v závorce bude uvedený programovací jazyk.
+Tvořím ve visual studio 2019 nebo visual studio code. Každý projekt bude mít svou složku a readme ve kterém bude popsán projekt a jazyky v něm použité.
 
 <br />
 
