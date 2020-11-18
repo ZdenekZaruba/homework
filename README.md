@@ -11,3 +11,7 @@ Tvořím ve visual studio 2019 nebo visual studio code a pro každý programovac
 <br />
 
 # Patch Notes
+
+- 18.11.2020 
+
+Vytvořeny složky C, HTML, PHP.
