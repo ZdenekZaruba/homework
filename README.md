@@ -1,1 +1,1 @@
-# skola
+# Škola
