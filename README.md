@@ -4,13 +4,13 @@ Můj školní repozitář k odevzdávání vypracovaných prací.
 
 <br />
 
-# Software
+## Software
 
 Tvořím ve visual studio 2019 nebo visual studio code a pro každý programovací jazyk bude vytvořena složka i s daným projektem.
 
 <br />
 
-# Patch Notes
+## Patch Notes
 
 - 18.11.2020 
 
