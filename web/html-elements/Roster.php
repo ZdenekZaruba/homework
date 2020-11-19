@@ -28,7 +28,7 @@ class Roster {
         }
     }
 
-    public function toHtm() {
+    public function toHtml() {
         $html = '';
         foreach($this->items as $item) {
             $html = $html . $item->toHtml();
