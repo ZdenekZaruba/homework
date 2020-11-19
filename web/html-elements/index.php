@@ -3,8 +3,14 @@ require 'RosterItem.php';
 require 'Roster.php';
 
 $list = new Roster();
-$list->addItem(new RosterItem('First item'));
-$list->addItem(new RosterItem('Second item'));
-$list->addItem('Third item');
+$list->addItem(new RosterItem('Audi'));
+$list->addItem(new RosterItem('BMW'));
 
-var_dump($list);
+$x = new Roster('ol');
+$x->addItem("sdfsdfsdfg");
+$x->addItem("ghfghsdfg");
+
+$list->addItem("Ford" . $x->toHtml());
+$list->addItem('Škoda');
+
+echo $list->toHtml();
